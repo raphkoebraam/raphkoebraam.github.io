@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raph.koebraam.com/sitemap.xml
