@@ -128,7 +128,7 @@ h2.resume-section-item-title {
   line-height: 1.7em;
 }
 
-.resume-page p,
+.resume-page .wrapper p,
 .resume-page .resume-highlights > li {
   text-align: justify;
   hyphens: auto;
@@ -264,7 +264,7 @@ article .date {
     padding: 40px 20px;
   }
 
-  .resume-page p,
+  .resume-page .wrapper p,
   .resume-page .resume-highlights > li {
     text-align: left;
   }
